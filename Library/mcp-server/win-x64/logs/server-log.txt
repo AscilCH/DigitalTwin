@@ -1,0 +1,30 @@
+2026-09-07 15:28:13.9395 | INFO  | com.IvanMurzak.GameDev.MCP.Server.Program | Start listening on port: 54841 (bind: loopback) 
+2026-09-07 15:28:14.0063 | WARN  | gamedev-mcp-server | REDIS_URL is not set — MCP sessions will NOT survive a server restart. Configure Redis to enable Option B (issue #70). 
+2026-09-07 15:28:14.0193 | INFO  | gamedev-mcp-server | MCP auth mode: none (transport: streamableHttp, bind: loopback). 
+2026-09-07 15:28:14.6597 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'EA9OiokKg69eB64Qmrlexw' connected to McpServerHub. Total connected clients: 1 
+2026-09-07 15:28:14.6597 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping added: hash[cf430228] -> connectionId 'EA9OiokKg69eB64Qmrlexw' 
+2026-09-07 15:28:14.7308 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Version handshake successful. Plugin: 0.90.0, API: 2.0.0, Environment: 6000.2.10f1 
+2026-09-07 15:30:55.4902 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0) method 'initialize' request handler called. 
+2026-09-07 15:30:55.5198 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'initialize' request handler completed in 14.6063ms. 
+2026-09-07 15:30:55.5198 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'logging/setLevel' request handler called. 
+2026-09-07 15:30:55.5198 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'tools/list' request handler called. 
+2026-09-07 15:30:55.5198 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'prompts/list' request handler called. 
+2026-09-07 15:30:55.5379 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'logging/setLevel' request handler completed in 4.1714ms. 
+2026-09-07 15:30:55.6313 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'prompts/list' request handler completed in 97.2506ms. 
+2026-09-07 15:30:55.6636 | INFO  | ModelContextProtocol.Server.McpServer | Server (gamedev-mcp-server 9.2.5.0), Client (Visual Studio Code 1.126.0) method 'tools/list' request handler completed in 129.6753ms. 
+2026-09-07 15:49:20.8370 | INFO  | com.IvanMurzak.GameDev.MCP.Server.Program | Start listening on port: 54841 (bind: loopback) 
+2026-09-07 15:49:20.9102 | WARN  | gamedev-mcp-server | REDIS_URL is not set — MCP sessions will NOT survive a server restart. Configure Redis to enable Option B (issue #70). 
+2026-09-07 15:49:20.9102 | INFO  | gamedev-mcp-server | MCP auth mode: none (transport: streamableHttp, bind: loopback). 
+2026-09-07 15:49:21.6935 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'CUMx5DTktTOf_KYnMok8wA' connected to McpServerHub. Total connected clients: 1 
+2026-09-07 15:49:21.6935 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping added: hash[cf430228] -> connectionId 'CUMx5DTktTOf_KYnMok8wA' 
+2026-09-07 15:49:21.7580 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Version handshake successful. Plugin: 0.90.0, API: 2.0.0, Environment: 6000.2.10f1 
+2026-09-07 16:49:10.3428 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'CUMx5DTktTOf_KYnMok8wA' disconnected from McpServerHub. Total connected clients: 0 
+2026-09-07 16:49:10.3428 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping removed: hash[cf430228] for connectionId 'CUMx5DTktTOf_KYnMok8wA' 
+2026-09-07 16:49:16.1084 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'XKueWgwjRtQgprrtS3fyxA' connected to McpServerHub. Total connected clients: 1 
+2026-09-07 16:49:16.1084 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping added: hash[cf430228] -> connectionId 'XKueWgwjRtQgprrtS3fyxA' 
+2026-09-07 16:49:16.1765 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Version handshake successful. Plugin: 0.90.0, API: 2.0.0, Environment: 6000.2.10f1 
+2026-09-07 16:49:42.1852 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'XKueWgwjRtQgprrtS3fyxA' disconnected from McpServerHub. Total connected clients: 0 
+2026-09-07 16:49:42.1852 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping removed: hash[cf430228] for connectionId 'XKueWgwjRtQgprrtS3fyxA' 
+2026-09-07 16:49:47.6393 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Client 'WTc3K4cGESB616ZG8PPA7g' connected to McpServerHub. Total connected clients: 1 
+2026-09-07 16:49:47.6393 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Token mapping added: hash[cf430228] -> connectionId 'WTc3K4cGESB616ZG8PPA7g' 
+2026-09-07 16:49:47.7067 | INFO  | com.IvanMurzak.McpPlugin.Server.McpServerHub | Version handshake successful. Plugin: 0.90.0, API: 2.0.0, Environment: 6000.2.10f1 
